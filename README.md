@@ -25,8 +25,8 @@ code : virtualenv venv
 Step 5: Activate the Virtual Environment
 Activate the virtual environment:
 
-On Windows (Command Prompt) : .\venv\Scripts\activate
-On Windows (PowerShell) : .\venv\Scripts\Activate.ps1
+On Windows (Command Prompt) : .\venv\Scripts\activate (or)
+On Windows (PowerShell) : .\venv\Scripts\Activate.ps1 (or)
 On macOS and Linux : source venv/bin/activate
 
 Step 6: Verify Activation
